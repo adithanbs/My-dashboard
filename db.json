@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+          "_id": "1",
+          "userName": "A",
+          "googleApi": 44,
+          "facebookApi": 60
+        },   
+         {
+            "_id": "2",
+            "userName": "B",
+            "googleApi": 48,
+            "facebookApi": 54
+          },
+          {
+            "_id": "3",
+            "userName": "C",
+            "googleApi": 96,
+            "facebookApi": 100
+          },
+          {
+            "_id": "4",
+            "userName": "D",
+            "googleApi": 49,
+            "facebookApi": 60
+          },
+          {
+            "_id": "5",
+            "userName": "E",
+            "googleApi": 78,
+            "facebookApi": 60
+          }
+        
+    ]
+}
