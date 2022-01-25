@@ -1,0 +1,20 @@
+.outreach{
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 8px;
+}
+.react-tel-input .form-control{
+    /* padding: 10px !important; */
+    width: 100% !important;
+    margin-bottom: 10px !important;
+    margin-top: 8px !important;
+
+}
+.phoneinput{
+    padding: 21px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 8px;
+
+}

@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  
+    .ticket-detail {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+    }
+    .buy-tkt-cards{
+        height: 498px;
+    }
+    .buy-tkt-cards-invoice{
+
+    }
+    
+}
